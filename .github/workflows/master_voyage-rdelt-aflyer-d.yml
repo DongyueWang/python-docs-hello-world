@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'voyage-rdelt-aflyer-d'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5E80494FCF574DA3A23B2AE969D854B6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB140562E5AB4DECBB93408348A1DE85 }}
