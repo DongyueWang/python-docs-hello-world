@@ -7,7 +7,7 @@ name: Build and deploy Python app to Azure Web App - voyage-rdelt-aflyer-d
 on:
   push:
     branches:
-      - master
+      - stagng
   workflow_dispatch:
 
 jobs:
